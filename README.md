@@ -1,7 +1,6 @@
 ![Banner](https://github.com/andrewasaleh/andrewasaleh/assets/67487615/c00ac54f-66a9-4cb2-b43c-ec84c107a18e)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/salehandrew/) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/andrewasaleh) 
 [![Credly](https://img.shields.io/badge/Credly-FF6B00.svg?style=for-the-badge&logo=Credly&logoColor=white)](https://www.credly.com/users/andrew-saleh.5f80b1f5)
 
 ---
